@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  align-items: baseline;
+}
+
+header {
+  background-color: #283044;
+  height: 80px;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.logo {
+  max-height: 120px;
+}
+
+.logo {
+  max-height: 95px;
+  position: relative;
+  top: -10px; 
+
+}
